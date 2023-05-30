@@ -1,7 +1,7 @@
 {
   "name": "quest-app",
   "version": "0.1.0",
-  "homepage": "https://peleplus.github.io/",
+  "homepage": "https://peleplus.github.io/peleplus",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
