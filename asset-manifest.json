@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ebe505c.css",
-    "main.js": "/static/js/main.918b4806.js",
-    "static/js/787.f6da3cd7.chunk.js": "/static/js/787.f6da3cd7.chunk.js",
-    "static/media/Group743_FrameP.png": "/static/media/Group743_FrameP.518ba2fd4bf00a743db5.png",
-    "index.html": "/index.html",
-    "static/media/_CheckCircleOutlined.svg": "/static/media/_CheckCircleOutlined.73577139c3ebbd51afb4c13d0339367d.svg",
-    "static/media/_ErrorOutline.svg": "/static/media/_ErrorOutline.9506bade3570bfb53faad057336f5791.svg",
-    "static/media/_InfoOutlined.svg": "/static/media/_InfoOutlined.59ffa90540501a826dc07aa4789d732a.svg",
-    "static/media/_CheckBoxFilled.svg": "/static/media/_CheckBoxFilled.5e36add76b516381c8fd051781d5d044.svg",
-    "static/media/_WarningAmberOutlined.svg": "/static/media/_WarningAmberOutlined.7f0f81f3ac6a1bd4c08a64ea1e6554dd.svg",
-    "static/media/_IndeterminateCheckBoxFilled.svg": "/static/media/_IndeterminateCheckBoxFilled.77aafd92bc7dce2cf314b31e74cbf683.svg",
-    "static/media/_CheckBoxOutlineBlankOutlined.svg": "/static/media/_CheckBoxOutlineBlankOutlined.dc89c96be8c045bd1756ba14e3dbbbea.svg",
-    "main.5ebe505c.css.map": "/static/css/main.5ebe505c.css.map",
-    "main.918b4806.js.map": "/static/js/main.918b4806.js.map",
-    "787.f6da3cd7.chunk.js.map": "/static/js/787.f6da3cd7.chunk.js.map"
+    "main.css": "/peleplus/static/css/main.5ebe505c.css",
+    "main.js": "/peleplus/static/js/main.2ddb1391.js",
+    "static/js/787.f6da3cd7.chunk.js": "/peleplus/static/js/787.f6da3cd7.chunk.js",
+    "static/media/Group743_FrameP.png": "/peleplus/static/media/Group743_FrameP.518ba2fd4bf00a743db5.png",
+    "index.html": "/peleplus/index.html",
+    "static/media/_CheckCircleOutlined.svg": "/peleplus/static/media/_CheckCircleOutlined.73577139c3ebbd51afb4c13d0339367d.svg",
+    "static/media/_ErrorOutline.svg": "/peleplus/static/media/_ErrorOutline.9506bade3570bfb53faad057336f5791.svg",
+    "static/media/_InfoOutlined.svg": "/peleplus/static/media/_InfoOutlined.59ffa90540501a826dc07aa4789d732a.svg",
+    "static/media/_CheckBoxFilled.svg": "/peleplus/static/media/_CheckBoxFilled.5e36add76b516381c8fd051781d5d044.svg",
+    "static/media/_WarningAmberOutlined.svg": "/peleplus/static/media/_WarningAmberOutlined.7f0f81f3ac6a1bd4c08a64ea1e6554dd.svg",
+    "static/media/_IndeterminateCheckBoxFilled.svg": "/peleplus/static/media/_IndeterminateCheckBoxFilled.77aafd92bc7dce2cf314b31e74cbf683.svg",
+    "static/media/_CheckBoxOutlineBlankOutlined.svg": "/peleplus/static/media/_CheckBoxOutlineBlankOutlined.dc89c96be8c045bd1756ba14e3dbbbea.svg",
+    "main.5ebe505c.css.map": "/peleplus/static/css/main.5ebe505c.css.map",
+    "main.2ddb1391.js.map": "/peleplus/static/js/main.2ddb1391.js.map",
+    "787.f6da3cd7.chunk.js.map": "/peleplus/static/js/787.f6da3cd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ebe505c.css",
-    "static/js/main.918b4806.js"
+    "static/js/main.2ddb1391.js"
   ]
 }
