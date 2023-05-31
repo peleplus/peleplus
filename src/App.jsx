@@ -11,7 +11,7 @@ function App() {
       <StyledEngineProvider injectFirst>
         <ThemeProvider theme={questTheme}>
           <Routes>
-            <Route path="/" element={<Group743 />} />
+            <Route path="/peleplus" element={<Group743 />} />
           </Routes>
         </ThemeProvider>
       </StyledEngineProvider>
